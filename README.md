@@ -20,10 +20,10 @@ src/test/java/com/hemalatha/bookingapi/
 ├── base/          # RequestSpecFactory, ResponseSpecFactory
 ├── endpoints/     # ApiEndPoints
 ├── models/        # Booking, BookingDates POJOs
-├── tests/         # BookingApiTest
+├── tests/         # BookingCrudTest
 └── resources/     # allure.properties    
 
-## Framework Feature
+## Framework Features
 - RequestSpecBuilder
 - ResponseSpecBuilder
 - Jackson POJO mapping
