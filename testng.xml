@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Booking API Test Suite">
+    <test name="CRUD Tests">
+        <classes>
+            <class name="com.hemalatha.bookingapi.tests.BookingCrudTest"/>
+        </classes>
+    </test>
+</suite>
